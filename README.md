@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Ola! Me chamo Bento Martins Duarte, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Objetivo Indaiatuba, realizei curso técnico em informática pela FIEC. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC Indaiatuba. Trabalhando atualmente pela equipe de desenvolvedores da FIEC
+Olá! Eu me chamo Bento Martins Duarte, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Objetivo Indaiatuba, realizei curso técnico em informática pela FIEC e nesse momento estou cursando Desenvolvimento de Software Multiplataforma na FATEC Indaiatuba. Faço parte atualmente da equipe de desenvolvedores da FIEC, sendo os projetos principais voltados para a comunidade escolar.
 
 <p align="left">
     <a href="https://github.com/BentoDuarte?tab=repositories&sort=stargazers">
