@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bento Duarte
+# 👨‍💻 Bento Duarte
 
 **`Desenvolvedor FullStack`**
 
